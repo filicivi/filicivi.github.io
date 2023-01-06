@@ -1,0 +1,29 @@
+theme = "awesome-identity"
+baseURL = "https://filicivi.github.io"
+title = "Filippo's GitHub Page"
+
+
+## Profile Configurations
+[params.profile]
+  portrait = "https://avatars.githubusercontent.com/u/1724297?v=4"
+  firstname = "Filippo"
+  lastname = "Civiletti"
+  title = "SysOp/Devops Engineer"
+  bio = """Senior engineer at P.A.Advice. Love to automate everything.
+
+  #ansible #k8s #raspberrypi #retrocomputic #homeautomation #maker
+  """
+
+## Params Configurations
+[params.contacts]
+  # email = "filippo@civiletti.email"
+  github = "filicivi"
+  twitter = "filicivi"
+  linkedin = "filippociviletti"
+  stackoverflow = "3062098"
+  medium = "@filippociviletti"
+
+## Footer Configurations
+[params.footer]
+  copyright = "This is still work-in-progress (and ever will be?)"
+  poweredBy = true
